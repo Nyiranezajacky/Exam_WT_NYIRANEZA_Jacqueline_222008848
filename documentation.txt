@@ -1,0 +1,7 @@
+-PROJECT DISCRIPTION-
+VIRTUAL EVENT HOSTING PLATFORM
+My project of virtual event hosting platform have ten tabls that contain USER, EVENT, ATTENDEES, EVENT-ATTENDEES ,FEEDBACK
+User are able to login 
+User are able for hosting event
+user  are able to add new event or delet the event and update 
+Addim are able to remove the user
